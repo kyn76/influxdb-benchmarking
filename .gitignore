@@ -1,0 +1,5 @@
+*__pycache__*
+*checkpoints*
+nohup.out
+models/*.joblib
+predict/*.csv
